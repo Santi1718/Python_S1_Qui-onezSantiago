@@ -13,5 +13,5 @@
 Hecho por (Santiago/https://github.com/Santi1718)
 
 >Este texto será una cita.
->aqui encontraras algunos de los trabajos hechos en python, tambien encontraras notas de clase entre otras.
+>aqui encontraras algunos de los trabajos hechos en python, tambien encontraras notas de diferentes clases y ejemplos dados por el profesor.
 
